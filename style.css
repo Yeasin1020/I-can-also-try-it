@@ -1,0 +1,67 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #0FE2DA;
+}
+.box{
+    display: flex;
+    width: 60%;
+    text-align: center;
+    padding-left: 20%;
+}
+.box div{
+    margin: 5px;
+}
+.box div:hover{
+    border: 3px solid orange;
+    box-shadow: 5px 5px 5px red;
+}
+.header{
+    text-align: center;
+}
+.headerp1{
+    width: 50%;
+    border: 3px solid;
+    padding: 10px 50px;
+    background-color: #FDE891;
+}
+.headerp2{
+    width: 50%;
+    border: 3px solid;
+    padding: 10px 50px;
+    background-color: #C6CBF1;
+}
+.view-more{
+    text-align: center;
+}
+.section2nd{
+    display: flex;
+}
+.section2nd div{
+    text-align: center;
+    margin: 7px;
+    border-radius: 10px;
+    border: 2px solid;
+    background-color: #ade9e9;
+}
+.section2nd h3:hover{
+    color: #6047EC;
+    
+}
+.section2nd div:hover{
+    border: 2px solid orange;
+    box-shadow: 5px 5px 5px red;
+}
+.mehedi{
+    text-align: center;
+    
+
+}
+.mehedi span{
+    background-color: rgb(228, 243, 11);
+    padding: 5px;
+    border-radius: 5px;
+}
+.mehedi span:hover{
+    background-color: red;
+}
+
